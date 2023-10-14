@@ -1,0 +1,47 @@
+/*Style for the body*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+/*Style for header*/
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: auto;
+}
+/*Style for main sections*/
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.1);
+    
+}
+/*Style for section headers*/
+h2 {
+    color: #777;
+}
+/*Style for text*/
+p {
+    color: #222;
+}
+/*Stle for footer*/
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: auto;
+}
+/*style for links*/
+a {
+    color: 0078d4;
+    text-decoration: none;
+}
+/*Change colour of link on hover*/
+a:hover {
+    color: #0056b3;
+}
