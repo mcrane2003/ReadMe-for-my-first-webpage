@@ -8,4 +8,4 @@ The webpage contains an introduction section, an about section, an experience se
 #Motivation
 My motivation for creating this webpage is to gain experience in creating webpages
 #Screenshot
-![screenshootimg](sketch.jpg)
+![screenshotimg](sketch.jpg)
